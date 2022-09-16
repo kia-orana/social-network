@@ -1,4 +1,4 @@
-# Golang and React based Social Network webapp
+# Golang and React based Social Network System
 - Designed and implemented a short-video web application with React. 
 - Implemented features for users to create and browse posts and support search nearby posts.
 - Improved the authentication using JWT token based registration/login/logout flow with React Router v4. 
